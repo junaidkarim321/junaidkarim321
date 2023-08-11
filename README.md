@@ -15,13 +15,13 @@
 
 - 📝 I regularly write articles on [https://www.ailogixx.com/](https://www.ailogixx.com/)
 
-- 💬 Ask me about **Reactjs Nextjs Html CSS sass javascript typescript redux bootstrap tailwind-CSS MaterialUI API flux json NodeJS firebase WordPress UI/UX react native**
+- 💬 Ask me about **Reactjs, Nextjs, Html, CSS, SASS, Javascript, Typescript, Redux, Bootstrap, Tailwind-CSS, Material-UI, API, Flux, JSON, NodeJS, Firebase, WordPress, UI/UX , React Native**
 
 - 📫 How to reach me **www.junaidkarimbarcha@gmail.com**
 
 - 📄 Know about my experiences[https://64d62214bea8f5588a01c784--resplendent-pastelito-37e96a.netlify.app/](https://64d62214bea8f5588a01c784--resplendent-pastelito-37e96a.netlify.app/)
 
-- ⚡ Fun fact **I the owner of three big domains**
+- ⚡ Fun fact **I am  the owner of three big domains Visit my portfolio to know about them **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
