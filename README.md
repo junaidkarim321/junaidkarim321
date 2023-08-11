@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **www.junaidkarimbarcha@gmail.com**
 
-- 📄 Know about my experiences [https://www.ailogixx.com/](https://www.ailogixx.com/)
+- 📄 Know about my experiences[https://64d62214bea8f5588a01c784--resplendent-pastelito-37e96a.netlify.app/](https://64d62214bea8f5588a01c784--resplendent-pastelito-37e96a.netlify.app/)
 
 - ⚡ Fun fact **I the owner of three big domains**
 
